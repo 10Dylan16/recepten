@@ -1,0 +1,47 @@
+header, footer {
+    padding: 1em;
+    color: black;
+
+    clear: left;
+    text-align: center;
+}
+
+article {
+    margin-left: 170px;
+
+}
+
+H1 {
+Color: rgb(77, 0, 0);
+}
+
+
+ol.c {
+    list-style-type: upper-roman;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+img {
+    float: right;
+    margin: 0 0 5px 150px;
+}
+
+#box{
+width:200px;
+Height: 350px;
+Background-color: orange;
+Border: 5px solid black;
+Padding: 10px 20px 30px 40px;
+Margin:50px auto;
+
+}
